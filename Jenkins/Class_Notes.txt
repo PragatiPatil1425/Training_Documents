@@ -218,7 +218,7 @@ Day 28: 5th Sep. 2024
 
 		
 pipeline {
-    agent any
+    agent any         --> used to schedule a job to specific node
 
     stages {
         stage('SCM_Checkout') {

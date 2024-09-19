@@ -301,6 +301,8 @@ Day 33: 16th Sep. 2024
 			
 			
 		docker volume create <vol_name>
+
+		docker volume list
 		
 		docker volume inspect <vol_name>
 		

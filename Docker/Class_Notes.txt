@@ -231,8 +231,10 @@ Day 32: 13th Sep. 2024
 	
 	Run Application inside the Container!
 	
-		docker run -it tomcat:8.0 bash
-		
+		docker run -it tomcat:8.0 bash   # to install the tomcat
+
+                docker run -it tomcat:8.0        # to run the tomcat
+
 		docker run -it -p <host_Port>:<container_Port> tomcat:8.0
 		
 		Eg:

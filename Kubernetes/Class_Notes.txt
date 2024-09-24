@@ -67,6 +67,7 @@ Kubernetes ::::
 			
 			
 			Kubelet 				--> # Is a Kubernetes Agent used to Create & Deploy the Pods
+								    # extension of plugins which used to deploy the pods
 			
 			KubeProxy				--> # Is used to enable pod networking by create Pod IP Address			
 			

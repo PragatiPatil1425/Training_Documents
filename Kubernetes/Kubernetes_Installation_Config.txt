@@ -281,8 +281,8 @@ sudo kubeadm token create --print-join-command # To generate New Token along wit
 ###Only in Worker Nodes:
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-kubeadm join 172.31.8.101:6443 --token 7nd74g.qf0o7ntrb9im3hqr \
-        --discovery-token-ca-cert-hash sha256:20a690f48ba814666bf93da0a3460e53b46992e339a515bc2dd4f4a1bbf5d4b1
+kubeadm join 172.31.35.46:6443 --token ndfyk6.btnk3k1r9gnxmljk \
+        --discovery-token-ca-cert-hash sha256:120a68040c9ed176cfbd2f4bdf32b08c8af2a6eceb9520ca3506dfb61c550156
 
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

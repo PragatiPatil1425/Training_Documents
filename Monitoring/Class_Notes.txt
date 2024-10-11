@@ -31,7 +31,9 @@ Day 44: 7th Oct. 2024
 	
 	Architecture of Monitoring Tool :::
 	
-		- Prometheus Architecture
+		- Prometheus Architecture - monitoring server will having in-build database that databse used store the metrix that are pulled from the agent
+                                            and from the datatbase you can able to transfer the data to Grafana for creating the dashbord
+                                            and additional to it we can set some alerts
 		
 			- Time Series Database 		===================> 	Grafana 
 			

@@ -41,7 +41,7 @@ Day 45: 9th Oct. 2024
 			--> Build and Release Environments and Frequencies 
 			
 			--> Key Performance Metrics
-				- MTTR 
+				- MTTR (Mean Time To Respond)
 		
 			--> IAAS / PAAS / SAAS ---> Customers/Client & Vendor/AWS Cloud Service Provider 
 
